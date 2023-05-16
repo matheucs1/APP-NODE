@@ -1,6 +1,6 @@
 const DataTypes = require('sequelize');
 
-const connection = new DataTypes('guiaperguntas','root','Ma628387', {
+const connection = new DataTypes('guiaperguntas','root','123456', {
     host: 'localhost',
     dialect: 'mysql',
     logging: false
